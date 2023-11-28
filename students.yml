@@ -1,0 +1,14 @@
+---
+- students:
+  - Name: gaurav
+    No: 123456789
+    Add:
+      Location: Mumbai
+      pincode: 123456
+
+  - Name: Harshal
+    No: 789456123
+    Add:
+      Location: Pune
+      pincode: 456123
+      
